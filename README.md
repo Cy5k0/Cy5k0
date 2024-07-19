@@ -8,14 +8,14 @@ Soy Ingeniero Informático, en el último año me he dedicado a capacitarme, tom
 
 [![AWS_cert](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
 
-Tengo la certificación de **Cloud Practitioner de AWS**
+Certificación de **Cloud Practitioner de AWS**
 
 
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<francisco.colomer@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/francisco-colomer-bonometti/)**
-- 
+  
 ### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -24,7 +24,7 @@ Tengo la certificación de **Cloud Practitioner de AWS**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-###  Cloud
+### ☁ Cloud
 
 ![AWS_P](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
