@@ -3,7 +3,7 @@
 Estoy a nivel Junior en varios de mis conocimientos ya que la mayoría de ellos los obtuve durante el último año. Estoy buscando un cambio de área profesional y migrar a un área de arquitectura cloud o desarrollo cloud, actualmente estoy trabajando en el área de soporte técnico.
 
 
-Soy Ingeniero Informático, en el último año me he dedicado a capacitarme, tomando 3 diplomados y 1 bootcamp, los diplomados son en **Arquitectura y Seguridad Cloud**, **Ciber Seguridad y Ciber Defensa**, **Machine Learning with Python**. El bootcamp es de **Desarrollo Web con Python**, y actualmente está en curso (hasta diciembre aproximadamente). Además, paralelamente, me estoy preparando para la certificación de Cloud Architect Associate de AWS
+Soy Ingeniero Informático, en el último año he dedicado a capacitarme, tomando 3 diplomados y 1 bootcamp, los diplomados son en **Arquitectura y Seguridad Cloud**, **Ciber Seguridad y Ciber Defensa**, **Machine Learning with Python**. El bootcamp es de **Desarrollo Web con Python**, y actualmente está en curso (hasta diciembre aproximadamente). Además, paralelamente, me estoy preparando para la certificación de Cloud Architect Associate de AWS
 
 
 [![AWS_cert](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
