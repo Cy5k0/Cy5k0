@@ -1,9 +1,46 @@
 # Hola 👋, soy Francisco Colomer.
 
-Estoy a nivel Junior en varios de mis conocimientos ya que la mayoría de ellos los obtuve durante el último año. Estoy buscando un cambio de área profesional y migrar a un área de arquitectura cloud o desarrollo cloud, actualmente estoy trabajando en el área de soporte técnico.
+## Sobre Mí
 
+Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte técnico y un fuerte enfoque en la evolución profesional hacia la arquitectura y desarrollo cloud. Durante el último año, he invertido considerable tiempo en formación y desarrollo profesional, adquiriendo conocimientos en diversas áreas clave de la tecnología.
 
-Soy Ingeniero Informático, en el último año he dedicado a capacitarme, tomando 3 diplomados y 1 bootcamp, los diplomados son en **Arquitectura y Seguridad Cloud**, **Ciber Seguridad y Ciber Defensa**, **Machine Learning with Python**. El bootcamp es de **Desarrollo Web con Python**, y actualmente está en curso (hasta diciembre aproximadamente). Además, paralelamente, me estoy preparando para la certificación de Cloud Architect Associate de AWS
+## Formación Académica
+
+- **Ingeniería Informática**
+- **Diplomados:**
+  - Arquitectura y Seguridad Cloud
+  - Ciber Seguridad y Ciber Defensa
+  - Machine Learning with Python
+- **Bootcamp:**
+  - Desarrollo Web con Python (Junio - Diciembre)
+
+## Experiencia Profesional
+
+### Soporte Técnico
+- 12 años de experiencia en soporte técnico orientado hacia el usuario.
+- Mantenimiento e instalación de redes LAN.
+
+### Emprendimiento
+- Co-fundador de un emprendimiento de desarrollo web con un socio. Nos especializamos en:
+  - Aplicaciones web
+  - Sitios web estáticos
+  - Landing pages
+
+## Certificaciones y Capacitación
+
+- Preparación para la certificación **Cloud Architect Associate de AWS**.
+
+## Contacto
+
+Si deseas contactarme para oportunidades profesionales o colaboraciones, puedes hacerlo a través de los siguientes medios:
+
+- **Email:** [tu_email@ejemplo.com](mailto:tu_email@ejemplo.com)
+- **LinkedIn:** [linkedin.com/in/tu_perfil](https://www.linkedin.com/in/tu_perfil)
+
+---
+
+Estoy en un proceso de reinvención profesional, dispuesto a aprender y adaptarme a nuevas tecnologías, con un especial interés en la nube y su potencial para transformar negocios y experiencias tecnológicas.
+
 
 
 [![AWS_cert](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
