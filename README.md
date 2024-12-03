@@ -4,7 +4,7 @@
 
 Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte técnico y un fuerte enfoque en la evolución profesional hacia la arquitectura y desarrollo cloud. Durante el último año, he invertido considerable tiempo en formación y desarrollo profesional, adquiriendo conocimientos en diversas áreas clave de la tecnología.
 
-## Formación Académica
+## 🎓 Formación Académica
 
 - **Ingeniería Informática**
 - **Diplomados:**
@@ -14,7 +14,7 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 - **Bootcamp:**
   - Desarrollo Web con Python (Junio - Diciembre)
 
-## Experiencia Profesional
+## 💼 Experiencia Profesional
 
 ### Soporte Técnico
 - 12 años de experiencia en soporte técnico orientado hacia el usuario.
@@ -26,25 +26,23 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
   - Sitios web estáticos
   - Landing pages
 
-## Certificaciones y Capacitación
+## 🏅 Certificaciones y Capacitación
 
 - Preparación para la certificación **Cloud Architect Associate de AWS**.
 - Certificación de **Cloud Practitioner de AWS**
-[![AWS_cert](https://images.credly.com/size/70x70/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
 
-  
+  [![AWS_cert](https://images.credly.com/size/70x70/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
 
 ## 📫 Contacto
+
 Si deseas contactarme para oportunidades profesionales o colaboraciones, puedes hacerlo a través de los siguientes medios:
 
-- Puedes contactarme a través de mi correo electrónico: **<francisco.colomer@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/francisco-colomer-bonometti/)**
+- **Email:** [francisco.colomer@gmail.com](mailto:francisco.colomer@gmail.com)
+- **LinkedIn:** [linkedin.com/in/francisco-colomer-bonometti](https://www.linkedin.com/in/francisco-colomer-bonometti/)
 
 ---
 
 Estoy en un proceso de reinvención profesional, dispuesto a aprender y adaptarme a nuevas tecnologías, con un especial interés en la nube y su potencial para transformar negocios y experiencias tecnológicas.
-
-
 
 
 
