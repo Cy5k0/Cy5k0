@@ -29,13 +29,16 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 ## Certificaciones y Capacitación
 
 - Preparación para la certificación **Cloud Architect Associate de AWS**.
+- Certificación de **Cloud Practitioner de AWS**
+  [![AWS_cert](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
 
-## Contacto
+  
 
+## 📫 Contacto
 Si deseas contactarme para oportunidades profesionales o colaboraciones, puedes hacerlo a través de los siguientes medios:
 
-- **Email:** [tu_email@ejemplo.com](mailto:tu_email@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tu_perfil](https://www.linkedin.com/in/tu_perfil)
+- Puedes contactarme a través de mi correo electrónico: **<francisco.colomer@gmail.com>**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/francisco-colomer-bonometti/)**
 
 ---
 
@@ -43,15 +46,8 @@ Estoy en un proceso de reinvención profesional, dispuesto a aprender y adaptarm
 
 
 
-[![AWS_cert](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
-
-Certificación de **Cloud Practitioner de AWS**
 
 
-## 📫 Contacto
-
-- Puedes contactarme a través de mi correo electrónico: **<francisco.colomer@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/francisco-colomer-bonometti/)**
   
 ### 🎨 Frontend
 
