@@ -28,11 +28,11 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 ## 🏅 Certificaciones y Capacitación
 
 - Preparación para la certificación **Cloud Architect Associate de AWS**.
-- Certificación de **Cloud Practitioner de AWS**
+- Certificación de **Cloud Practitioner de AWS** (caducado agosto 2026)
 - **Google Cybersecurity Professional Certificate**
 
   [![AWS_cert](https://images.credly.com/size/70x70/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
-  [![AWS_cert](https://images.credly.com/size/70x70/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/twitter_thumb_201604_image.png).](https://www.credly.com/badges/576ed9b3-d178-4953-a51c-4a2c26009d00/public_url)
+  [![AWS_cert](https://images.credly.com/size/70x70/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/twitter_thumb_201604_image.png)](https://www.credly.com/badges/576ed9b3-d178-4953-a51c-4a2c26009d00/public_url)
 
 ## 💡 Habilidades y Conocimientos
   
@@ -52,9 +52,37 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-### 🌟**Soft Skills** 
+### 🤖 Desarrollo con IA
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6B9A?style=for-the-badge&logo=deepseek&logoColor=white) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+### 🧠 OpenCode & OpenRouter
+
+![OpenRouter](https://img.shields.io/badge/OpenRouter-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![Continue](https://img.shields.io/badge/Continue-000000?style=for-the-badge&logo=continue&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### 📐 Metodologías de Desarrollo
+
+![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-FF6B6B?style=for-the-badge) ![TDD](https://img.shields.io/badge/TDD-6C5CE7?style=for-the-badge) ![BDD](https://img.shields.io/badge/BDD-00B894?style=for-the-badge) ![Agile](https://img.shields.io/badge/Agile-0984E3?style=for-the-badge) ![Scrum](https://img.shields.io/badge/Scrum-6AB04C?style=for-the-badge)
+
+### 🌟 Soft Skills
 
 ![Trabajo en Equipo](https://img.shields.io/badge/Trabajo%20en%20Equipo-000000?style=for-the-badge) ![Resolución de Problemas](https://img.shields.io/badge/Resolución%20de%20Problemas-000000?style=for-the-badge) ![Creatividad](https://img.shields.io/badge/Creatividad-000000?style=for-the-badge) ![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-000000?style=for-the-badge) ![Aprendizaje Continuo](https://img.shields.io/badge/Aprendizaje%20Continuo-000000?style=for-the-badge)
+
+## 🔬 Enfoque Actual en Desarrollo con IA
+
+Actualmente estoy profundizando en el desarrollo de software asistido por inteligencia artificial, explorando:
+
+- **Prompt Engineering** para optimizar la interacción con modelos de lenguaje
+- **OpenRouter** como puente unificado para acceder a múltiples modelos LLM
+- **OpenCode** y herramientas de edición colaborativa con IA
+- **Spec-Driven Development**: Desarrollo guiado por especificaciones, donde los requerimientos y la documentación se convierten en la fuente única de verdad para la generación de código
+- Integración de **asistentes de IA** en flujos de trabajo de desarrollo (GitHub Copilot, Cursor, Continue)
+
+### 🚀 Proyectos Destacados con IA
+
+- Implementación de pruebas automatizadas generadas con IA
+- Documentación técnica generada y mantenida con asistencia de LLMs
+- Prototipado rápido de APIs utilizando especificaciones OpenAPI con generación de código
 
 ## 📫 Contacto
 
@@ -65,7 +93,4 @@ Si deseas contactarme para oportunidades profesionales o colaboraciones, puedes 
 
 ---
 
-Estoy en un proceso de reinvención profesional, dispuesto a aprender y adaptarme a nuevas tecnologías, con un especial interés en la nube y su potencial para transformar negocios y experiencias tecnológicas.
-
-
-
+Estoy en un proceso de reinvención profesional, dispuesto a aprender y adaptarme a nuevas tecnologías, con un especial interés en la nube, la IA y su potencial para transformar negocios y experiencias tecnológicas.
