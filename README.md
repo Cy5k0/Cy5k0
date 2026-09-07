@@ -12,7 +12,7 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
   - Ciber Seguridad y Ciber Defensa
   - Machine Learning with Python
 - **Bootcamp:**
-  - Desarrollo Web con Python (Junio - Diciembre)
+  - Desarrollo Web con Python
 
 ## 💼 Experiencia Profesional
 
@@ -20,8 +20,7 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 - 12 años de experiencia en soporte técnico orientado hacia el usuario.
 - Mantenimiento e instalación de redes LAN.
 
-### Emprendimiento
-- Co-fundador de un emprendimiento de desarrollo web con un socio. Nos especializamos en:
+### Freelance
   - Aplicaciones web
   - Sitios web estáticos
   - Landing pages
@@ -30,8 +29,10 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 
 - Preparación para la certificación **Cloud Architect Associate de AWS**.
 - Certificación de **Cloud Practitioner de AWS**
+- **Google Cybersecurity Professional Certificate**
 
   [![AWS_cert](https://images.credly.com/size/70x70/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
+  [![AWS_cert](https://www.credly.com/badges/576ed9b3-d178-4953-a51c-4a2c26009d00/public_url)
 
 ## 💡 Habilidades y Conocimientos
   
