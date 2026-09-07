@@ -78,11 +78,6 @@ Actualmente estoy profundizando en el desarrollo de software asistido por inteli
 - **Spec-Driven Development**: Desarrollo guiado por especificaciones, donde los requerimientos y la documentación se convierten en la fuente única de verdad para la generación de código
 - Integración de **asistentes de IA** en flujos de trabajo de desarrollo (GitHub Copilot, Cursor, Continue)
 
-### 🚀 Proyectos Destacados con IA
-
-- Implementación de pruebas automatizadas generadas con IA
-- Documentación técnica generada y mantenida con asistencia de LLMs
-- Prototipado rápido de APIs utilizando especificaciones OpenAPI con generación de código
 
 ## 📫 Contacto
 
