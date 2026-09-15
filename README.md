@@ -34,7 +34,7 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 
   [![AWS_cert](https://images.credly.com/size/70x70/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
   [![GOOGLE_cert](https://images.credly.com/size/70x70/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/twitter_thumb_201604_image.png)](https://www.credly.com/badges/576ed9b3-d178-4953-a51c-4a2c26009d00/public_url)
-  [![GOOGLE_cert]([https://images.credly.com/size/70x70/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/twitter_thumb_201604_image.png)](https://www.credly.com/badges/021f526c-dac7-4849-8473-ddacb9985528/public_url)
+  [![GOOGLE_cert](https://images.credly.com/size/70x70/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/twitter_thumb_201604_image.png)](https://www.credly.com/badges/021f526c-dac7-4849-8473-ddacb9985528/public_url)
 
 ## 💡 Habilidades y Conocimientos
   
