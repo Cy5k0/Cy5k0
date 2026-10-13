@@ -31,10 +31,26 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 - Certificación de **Cloud Practitioner de AWS** (caducado agosto 2026)
 - **Google Cybersecurity Professional Certificate**
 - **Google IT Automation with Python Professional Certificate**
+- **Google Digital Marketing & E-commerce Professional Certificate**
+- **Google AI Essentials**
 
-  [![AWS_cert](https://images.credly.com/size/70x70/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url)
-  [![GOOGLE_cert](https://images.credly.com/size/70x70/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/twitter_thumb_201604_image.png)](https://www.credly.com/badges/576ed9b3-d178-4953-a51c-4a2c26009d00/public_url)
-  [![GOOGLE_cert](https://images.credly.com/size/70x70/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](https://www.credly.com/badges/021f526c-dac7-4849-8473-ddacb9985528/public_url)
+<p align="left">
+  <a href="https://www.credly.com/badges/f0281df3-b076-4354-849c-4c7bafb9f8f4/public_url" target="_blank">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" alt="AWS Certified Cloud Practitioner" width="95" height="95" />
+  </a>
+  <a href="https://www.credly.com/badges/576ed9b3-d178-4953-a51c-4a2c26009d00/public_url" target="_blank">
+    <img src="https://images.credly.com/images/ddcc63a4-8ee9-42ef-8a68-cb7e39cfbfef/twitter_thumb_201604_blob" alt="Google Cybersecurity Professional Certificate" width="95" height="95" />
+  </a>
+  <a href="https://www.credly.com/badges/021f526c-dac7-4849-8473-ddacb9985528/public_url" target="_blank">
+    <img src="https://images.credly.com/images/a0d0b1f3-8d86-4341-a49d-201a322d633e/twitter_thumb_201604_blob" alt="Google IT Automation with Python Professional Certificate" width="95" height="95" />
+  </a>
+  <a href="https://www.credly.com/badges/36bd36ca-550a-40b2-840c-d67d087587c8/public_url" target="_blank">
+    <img src="https://images.credly.com/images/88d946d8-1850-43a5-a1b6-d4ce600cecb0/twitter_thumb_201604_blob" alt="Google Digital Marketing & E-commerce Professional Certificate" width="95" height="95" />
+  </a>
+  <a href="https://www.credly.com/badges/d72475fb-cdf0-4985-af67-42b3b8390e9c/public_url" target="_blank">
+    <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/twitter_thumb_201604_image.png" alt="Google AI Essentials" width="95" height="95" />
+  </a>
+</p>
 
 ## 💡 Habilidades y Conocimientos
   
