@@ -76,7 +76,7 @@ Soy un **Ingeniero Informático** de Osorno, Chile, con experiencia en soporte t
 
 ### 🧠 OpenCode & OpenRouter
 
-![OpenRouter](https://img.shields.io/badge/OpenRouter-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![Continue](https://img.shields.io/badge/Continue-000000?style=for-the-badge&logo=continue&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=continue&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### 📐 Metodologías de Desarrollo
 
